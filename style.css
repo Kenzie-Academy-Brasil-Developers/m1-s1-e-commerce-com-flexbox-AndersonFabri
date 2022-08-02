@@ -58,7 +58,7 @@
     width: 23%;
     flex-direction: column;
     flex-wrap: wrap;
- 
+    margin: 10px;
 
 }
 
@@ -67,9 +67,10 @@
 }
 
 .card img {
+    display: flex;
     width: 250px;
     height: 240px;
-    text-align: center;
+
 }
 
 .card button {
